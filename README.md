@@ -2,7 +2,7 @@
 
 - :earth_asia: I'm based in **Mumbai**.
 - :brain:	I'm currently learning **Go**.
-- :mountain: I love **Trekking**
+- :mountain: I love **Trekking**.
 
 ## Tools And Technologies Used
 - **Languages**:
