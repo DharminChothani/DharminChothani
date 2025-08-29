@@ -1,6 +1,4 @@
 # Hello World, I’m Dharmin Chothani
-
-- :earth_asia: I'm based in **Mumbai**.
 - :brain:	I'm currently learning **Go**.
 
 ## Tools And Technologies Used
